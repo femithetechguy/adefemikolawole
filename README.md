@@ -28,5 +28,5 @@ Syntax highlighted code block
 For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
- _[Github](https://github.com/aekolawole)_ || _[LinkedIn](https://www.linkedin.com/in/aekolawole/)_ ||  _[Twitter](https://twitter.com/folakol_tech)_ || _[Email](mailto:admin@adefemikolawole.com)_ 
+ _[Github](https://github.com/aekolawole)_ || _[LinkedIn](https://www.linkedin.com/in/aekolawole/)_ ||  _[Twitter](https://twitter.com/folakol_tech)_ || _[Email](mailto:folakol.tech@gmail.com)_ 
 
