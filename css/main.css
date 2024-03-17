@@ -1195,4 +1195,12 @@ a:hover {
   #header nav {
     padding: 0 1em;
   }
+  .copyright{
+    font-size: x-large;
+    display: none;
+    width: 3%;
+    position: absolute;
+    top: 4vh;
+  }
+
 }
